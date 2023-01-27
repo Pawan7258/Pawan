@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: "Comic Sans Ms", cursive, sans-serif;
+    background-color: #EAFDFC;
+}
+
+h1{
+    margin-top: 5px;
+    
+}
+
+.top-container{
+    background-color: #EAFDFC;
+    position: relative;
+    padding-top: 100px;
+    
+}
+.middle-container{
+      
+}
+.bottom-container{
+   
+}
+.web{
+    text-decoration: underline;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+.top-cloud{
+    position: absolute;
+    right: 400px;
+    top: 50px;
+}
+.boy{
+    height: 150px;
+    width: 150px;
+}
+.skill-1st{
+    height: 150px;
+    width: 150px;
+}
